@@ -1,7 +1,7 @@
 import { Router } from "express";
 
-import v1Routes from "../controllers/v1/index";
-import v2Routes from "../controllers/v2/index";
+import v1Routes from "../controllers/v1";
+import v2Routes from "../controllers/v2";
 
 const router = Router();
 

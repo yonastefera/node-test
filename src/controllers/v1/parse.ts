@@ -1,6 +1,6 @@
 import { Response, Request, NextFunction } from "express";
 
-import { IRequest, IResponse } from "../../interfaces/index";
+import { IRequest, IResponse } from "../../interfaces";
 
 /**
  * Parse API.
